@@ -2214,3 +2214,205 @@
 2020-07-16 14:05:14,627 INFO [default] 
  ## -- Engine closed at 16/7/2020 14:5:14-- ###
 
+2020-07-24 13:44:02,020 INFO [default] Nero Game Engine v1.0.0 Copyright (c) 2016-2019 SANOU A. K. Landry
+2020-07-24 13:44:02,028 INFO [default] nero development engine starting
+2020-07-24 13:44:02,028 INFO [default] loading engine configuration
+2020-07-24 13:44:02,036 INFO [default] setting up sfml render window
+2020-07-24 13:44:02,042 INFO [default] building startup screen
+2020-07-24 13:44:02,050 INFO [default] starting background task
+2020-07-24 13:44:02,163 INFO [default] building resource manager
+2020-07-24 13:44:02,171 INFO [default] loading font resources
+2020-07-24 13:44:02,172 INFO [default] Resource path : resource/font
+2020-07-24 13:44:02,192 INFO [default] loaded : Sansation
+2020-07-24 13:44:02,193 INFO [default] loading sound resources
+2020-07-24 13:44:02,193 INFO [default] resource path : resource/sound
+2020-07-24 13:44:02,193 INFO [default] loading music resources
+2020-07-24 13:44:02,193 INFO [default] Resource path : resource/music
+2020-07-24 13:44:02,193 INFO [default] loading texture resources
+2020-07-24 13:44:02,193 INFO [default] Resource path : resource/texture
+2020-07-24 13:44:02,193 INFO [default] loading animation resources
+2020-07-24 13:44:02,193 INFO [default] Resource path : resource/animation
+2020-07-24 13:44:02,194 INFO [default] building engine-ui
+2020-07-24 13:44:02,533 INFO [default] providing engine setting to engine-ui
+2020-07-24 13:44:02,533 INFO [default] providing resource manager to engine-ui
+2020-07-24 13:44:02,533 INFO [default] building engine interface
+2020-07-24 13:44:08,935 INFO [default] building camera
+2020-07-24 13:44:08,944 INFO [default] building scene manager
+2020-07-24 13:44:08,960 INFO [default] adjusting background task time
+2020-07-24 13:44:08,960 INFO [default] adding the default scene
+2020-07-24 13:44:08,970 INFO [default] registering all scenes
+2020-07-24 13:44:08,970 INFO [default] adding scene : SimpleGame
+2020-07-24 13:44:09,047 INFO [default] save file detected : Nero/SimpleGame/SimpleGame.json
+2020-07-24 13:44:09,047 INFO [default] loading scene
+2020-07-24 13:44:09,066 INFO [default] loading scene
+2020-07-24 13:44:09,085 INFO [default] loading scene
+2020-07-24 13:44:09,086 INFO [default] scene registration complete
+2020-07-24 13:44:09,086 INFO [default] adding scene : ## + default + ##
+2020-07-24 13:44:09,087 INFO [default] save file detected : Nero/## + default + ##/## + default + ##.json
+2020-07-24 13:44:09,087 INFO [default] loading scene
+2020-07-24 13:44:09,108 INFO [default] loading scene
+2020-07-24 13:44:09,109 INFO [default] loading scene
+2020-07-24 13:44:09,109 INFO [default] scene registration complete
+2020-07-24 13:44:09,109 INFO [default] setting up the engine-ui
+2020-07-24 13:44:09,112 INFO [default] update engine-ui log
+2020-07-24 13:44:09,113 INFO [default] Nero Game Engine --- Log file 24/7/2020 13:44:9
+
+2020-07-24 13:44:09,113 INFO [default] Restoring last Scene
+2020-07-24 13:44:09,129 INFO [default] ## -- current Scene [## + default + ##] -- ## 
+
+2020-07-24 13:44:09,149 INFO [default] Background task completed
+2020-07-24 13:44:09,149 INFO [default] Nero Development Engine started successfully
+2020-07-24 13:45:28,324 INFO [default] ## -- current Scene [SimpleGame] -- ## 
+
+2020-07-24 13:45:28,324 INFO [default] stopping music
+2020-07-24 13:45:29,764 INFO [default] playing [SimpleGame]
+2020-07-24 13:45:29,806 INFO [default] checking Scene Objects ...
+2020-07-24 13:45:29,806 INFO [default] checking World Objects ...
+2020-07-24 13:45:29,806 INFO [default] checking Screen Objects ...
+2020-07-24 13:45:29,807 INFO [default] SimpleGame Scene v0.1
+2020-07-24 13:45:29,807 INFO [default] Setting up Collision rules ...
+2020-07-24 13:45:29,808 INFO [default] Setting up the player ...
+2020-07-24 13:45:29,808 INFO [default] current mode : Scene - Play
+2020-07-24 13:51:10,390 INFO [default] saving Scene [SimpleGame] to Nero/SimpleGame/SimpleGame.json
+2020-07-24 13:54:41,161 INFO [default] current mode : Scene - Object
+2020-07-24 13:55:59,090 INFO [default] closing the Engine
+2020-07-24 13:55:59,090 INFO [default] stopping music
+2020-07-24 13:55:59,091 INFO [default] saving Engine Settings
+2020-07-24 13:55:59,102 INFO [default] saving all Scenes
+2020-07-24 13:55:59,387 INFO [default] 
+ ## -- Engine closed at 24/7/2020 13:55:59-- ###
+
+2020-07-24 13:56:45,229 INFO [default] Nero Game Engine v1.0.0 Copyright (c) 2016-2019 SANOU A. K. Landry
+2020-07-24 13:56:45,230 INFO [default] nero development engine starting
+2020-07-24 13:56:45,230 INFO [default] loading engine configuration
+2020-07-24 13:56:45,237 INFO [default] setting up sfml render window
+2020-07-24 13:56:45,241 INFO [default] building startup screen
+2020-07-24 13:56:45,246 INFO [default] starting background task
+2020-07-24 13:56:45,572 INFO [default] building resource manager
+2020-07-24 13:56:45,574 INFO [default] loading font resources
+2020-07-24 13:56:45,574 INFO [default] Resource path : resource/font
+2020-07-24 13:56:45,577 INFO [default] loaded : Sansation
+2020-07-24 13:56:45,577 INFO [default] loading sound resources
+2020-07-24 13:56:45,577 INFO [default] resource path : resource/sound
+2020-07-24 13:56:45,577 INFO [default] loading music resources
+2020-07-24 13:56:45,577 INFO [default] Resource path : resource/music
+2020-07-24 13:56:45,578 INFO [default] loading texture resources
+2020-07-24 13:56:45,578 INFO [default] Resource path : resource/texture
+2020-07-24 13:56:45,579 INFO [default] loading animation resources
+2020-07-24 13:56:45,579 INFO [default] Resource path : resource/animation
+2020-07-24 13:56:45,579 INFO [default] building engine-ui
+2020-07-24 13:56:46,154 INFO [default] providing engine setting to engine-ui
+2020-07-24 13:56:46,154 INFO [default] providing resource manager to engine-ui
+2020-07-24 13:56:46,154 INFO [default] building engine interface
+2020-07-24 13:56:53,096 INFO [default] building camera
+2020-07-24 13:56:53,096 INFO [default] building scene manager
+2020-07-24 13:56:53,096 INFO [default] adjusting background task time
+2020-07-24 13:56:53,096 INFO [default] adding the default scene
+2020-07-24 13:56:53,096 INFO [default] registering all scenes
+2020-07-24 13:56:53,096 INFO [default] adding scene : SimpleGame
+2020-07-24 13:56:53,142 INFO [default] save file detected : Nero/SimpleGame/SimpleGame.json
+2020-07-24 13:56:53,142 INFO [default] loading scene
+2020-07-24 13:56:53,143 INFO [default] loading scene
+2020-07-24 13:56:53,144 INFO [default] loading scene
+2020-07-24 13:56:53,144 INFO [default] scene registration complete
+2020-07-24 13:56:53,144 INFO [default] adding scene : ## + default + ##
+2020-07-24 13:56:53,145 INFO [default] save file detected : Nero/## + default + ##/## + default + ##.json
+2020-07-24 13:56:53,145 INFO [default] loading scene
+2020-07-24 13:56:53,146 INFO [default] loading scene
+2020-07-24 13:56:53,146 INFO [default] loading scene
+2020-07-24 13:56:53,146 INFO [default] scene registration complete
+2020-07-24 13:56:53,146 INFO [default] setting up the engine-ui
+2020-07-24 13:56:53,149 INFO [default] update engine-ui log
+2020-07-24 13:56:53,149 INFO [default] Nero Game Engine --- Log file 24/7/2020 13:56:53
+
+2020-07-24 13:56:53,149 INFO [default] Restoring last Scene
+2020-07-24 13:56:53,149 INFO [default] ## -- current Scene [SimpleGame] -- ## 
+
+2020-07-24 13:56:53,164 INFO [default] Background task completed
+2020-07-24 13:56:53,164 INFO [default] Nero Development Engine started successfully
+2020-07-24 13:56:55,557 INFO [default] playing [SimpleGame]
+2020-07-24 13:56:55,558 INFO [default] checking Scene Objects ...
+2020-07-24 13:56:55,559 INFO [default] checking World Objects ...
+2020-07-24 13:56:55,559 INFO [default] checking Screen Objects ...
+2020-07-24 13:56:55,559 INFO [default] SimpleGame Scene v0.1
+2020-07-24 13:56:55,560 INFO [default] Setting up Collision rules ...
+2020-07-24 13:56:55,560 INFO [default] Setting up the player ...
+2020-07-24 13:56:55,560 INFO [default] current mode : Scene - Play
+2020-07-24 13:57:10,641 INFO [default] current mode : Scene - Object
+2020-07-24 13:57:13,511 INFO [default] loading camera state
+2020-07-24 13:58:25,218 INFO [default] loading camera state
+2020-07-24 13:58:27,536 INFO [default] loading camera state
+2020-07-24 13:58:31,164 INFO [default] saving Scene [SimpleGame] to Nero/SimpleGame/SimpleGame.json
+2020-07-24 13:58:32,881 INFO [default] saving Scene [SimpleGame] to Nero/SimpleGame/SimpleGame.json
+2020-07-24 14:14:16,713 INFO [default] saving Scene [SimpleGame] to Nero/SimpleGame/SimpleGame.json
+2020-07-24 14:14:18,548 INFO [default] launching Scene Renderer with Scene [SimpleGame]
+2020-07-24 14:14:18,550 INFO [default] Setting up Resolution ...
+2020-07-24 14:14:18,630 INFO [default] checking Scene Objects ...
+2020-07-24 14:14:18,630 INFO [default] checking World Objects ...
+2020-07-24 14:14:18,630 INFO [default] checking Screen Objects ...
+2020-07-24 14:14:18,630 INFO [default] SimpleGame Scene v0.1
+2020-07-24 14:14:18,630 INFO [default] Setting up Collision rules ...
+2020-07-24 14:14:18,630 INFO [default] Setting up the player ...
+2020-07-24 14:14:39,205 INFO [default] closing Scene Renderer for Scene [SimpleGame]
+2020-07-24 14:14:40,640 INFO [default] saving Scene [SimpleGame] to Nero/SimpleGame/SimpleGame.json
+2020-07-24 14:20:49,813 INFO [default] playing [SimpleGame]
+2020-07-24 14:20:49,815 INFO [default] checking Scene Objects ...
+2020-07-24 14:20:49,816 INFO [default] checking World Objects ...
+2020-07-24 14:20:49,817 INFO [default] checking Screen Objects ...
+2020-07-24 14:20:49,817 INFO [default] SimpleGame Scene v0.1
+2020-07-24 14:20:49,818 INFO [default] Setting up Collision rules ...
+2020-07-24 14:20:49,819 INFO [default] Setting up the player ...
+2020-07-24 14:20:49,819 INFO [default] current mode : Scene - Play
+2020-07-24 14:21:12,471 INFO [default] current mode : Scene - Object
+2020-07-24 14:21:23,131 INFO [default] playing [SimpleGame]
+2020-07-24 14:21:23,133 INFO [default] checking Scene Objects ...
+2020-07-24 14:21:23,134 INFO [default] checking World Objects ...
+2020-07-24 14:21:23,134 INFO [default] checking Screen Objects ...
+2020-07-24 14:21:23,135 INFO [default] SimpleGame Scene v0.1
+2020-07-24 14:21:23,136 INFO [default] Setting up Collision rules ...
+2020-07-24 14:21:23,137 INFO [default] Setting up the player ...
+2020-07-24 14:21:23,137 INFO [default] current mode : Scene - Play
+2020-07-24 14:21:25,261 INFO [default] checking Scene Objects ...
+2020-07-24 14:21:25,262 INFO [default] checking World Objects ...
+2020-07-24 14:21:25,263 INFO [default] checking Screen Objects ...
+2020-07-24 14:21:25,264 INFO [default] SimpleGame Scene v0.1
+2020-07-24 14:21:25,265 INFO [default] Setting up Collision rules ...
+2020-07-24 14:21:25,266 INFO [default] Setting up the player ...
+2020-07-24 14:21:28,444 INFO [default] checking Scene Objects ...
+2020-07-24 14:21:28,445 INFO [default] checking World Objects ...
+2020-07-24 14:21:28,446 INFO [default] checking Screen Objects ...
+2020-07-24 14:21:28,447 INFO [default] SimpleGame Scene v0.1
+2020-07-24 14:21:28,448 INFO [default] Setting up Collision rules ...
+2020-07-24 14:21:28,449 INFO [default] Setting up the player ...
+2020-07-24 14:21:29,066 INFO [default] current mode : Scene - Object
+2020-07-24 14:21:31,912 INFO [default] playing [SimpleGame]
+2020-07-24 14:21:31,914 INFO [default] checking Scene Objects ...
+2020-07-24 14:21:31,915 INFO [default] checking World Objects ...
+2020-07-24 14:21:31,916 INFO [default] checking Screen Objects ...
+2020-07-24 14:21:31,917 INFO [default] SimpleGame Scene v0.1
+2020-07-24 14:21:31,918 INFO [default] Setting up Collision rules ...
+2020-07-24 14:21:31,919 INFO [default] Setting up the player ...
+2020-07-24 14:21:31,920 INFO [default] current mode : Scene - Play
+2020-07-24 14:21:54,178 INFO [default] current mode : Scene - Object
+2020-07-24 14:21:55,627 INFO [default] loading camera state
+2020-07-24 14:23:10,521 INFO [default] playing [SimpleGame]
+2020-07-24 14:23:10,524 INFO [default] checking Scene Objects ...
+2020-07-24 14:23:10,525 INFO [default] checking World Objects ...
+2020-07-24 14:23:10,526 INFO [default] checking Screen Objects ...
+2020-07-24 14:23:10,527 INFO [default] SimpleGame Scene v0.1
+2020-07-24 14:23:10,528 INFO [default] Setting up Collision rules ...
+2020-07-24 14:23:10,529 INFO [default] Setting up the player ...
+2020-07-24 14:23:10,530 INFO [default] current mode : Scene - Play
+2020-07-24 14:23:32,532 INFO [default] current mode : Scene - Object
+2020-07-24 14:23:36,402 INFO [default] current mode : Scene - Play
+2020-07-24 14:24:02,436 INFO [default] current mode : Scene - Object
+2020-07-24 14:24:06,199 INFO [default] loading camera state
+2020-07-24 14:24:53,860 INFO [default] saving Scene [SimpleGame] to Nero/SimpleGame/SimpleGame.json
+2020-07-24 14:24:59,393 INFO [default] loading scene
+2020-07-24 14:39:33,030 INFO [default] closing the Engine
+2020-07-24 14:39:33,031 INFO [default] stopping music
+2020-07-24 14:39:33,032 INFO [default] saving Engine Settings
+2020-07-24 14:39:33,035 INFO [default] saving all Scenes
+2020-07-24 14:39:33,150 INFO [default] 
+ ## -- Engine closed at 24/7/2020 14:39:33-- ###
+

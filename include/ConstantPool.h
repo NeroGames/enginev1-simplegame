@@ -11,6 +11,9 @@ namespace ng
 	{
 		//Player
 	    const std::string player			= "player_ball";
+	    const std::string key			    = "key";
+	    const std::string door			    = "door";
+	    const std::string treasure			= "treasure";
 	};
 
 	struct _CategoryPool

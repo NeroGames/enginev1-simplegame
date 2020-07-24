@@ -104,11 +104,11 @@
          "default_rotation": 0.0,
          "default_zoom": 0.0,
          "position": {
-            "x": 378.000915527344,
+            "x": 400.0,
             "y": 303.0
          },
          "rotation": 0.0,
-         "zoom": -32.0
+         "zoom": -45.0
       },
       "canvas_color": {
          "a": 255,
@@ -274,7 +274,7 @@
                         }
                      ]
                   },
-                  "name": "no_name",
+                  "name": "key",
                   "object_id": 11,
                   "second_type": "mesh_object"
                },
@@ -321,7 +321,7 @@
                         }
                      ]
                   },
-                  "name": "no_name",
+                  "name": "door",
                   "object_id": 12,
                   "second_type": "mesh_object"
                },
@@ -368,7 +368,7 @@
                         }
                      ]
                   },
-                  "name": "no_name",
+                  "name": "treasure",
                   "object_id": 13,
                   "second_type": "mesh_object"
                }

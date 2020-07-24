@@ -58,6 +58,9 @@ namespace ng
 
 	    log("Setting up the player ...");
     	mPlayer.setObject(getObjectManager()->findObject(ObjectPool.player));
+
+    	//let the camera follow the player
+    	setCameraTarget(getObjectManager()->findObject(ObjectPool.player));
 	}
 
     void SimpleGame::handleKeyboardInput(const sf::Keyboard::Key& key, const bool& isPressed)
