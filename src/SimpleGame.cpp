@@ -10,6 +10,8 @@ namespace ng
 {
 	SimpleGame::SimpleGame(nero::Scene::Context context): nero::Scene(context)
 		,mPlayer()
+		,mPlayerHasKey(false)
+		,mPlayerHasTreasure(false)
 	{
 		//ctr
 	}
@@ -67,5 +69,42 @@ namespace ng
     {
         mPlayer.handleKeyboardInput(key, isPressed);
     }
+
+    void SimpleGame::handleCollisionContactBegin(nero::Collision collision)
+    {
+        //Let's grab the key
+        if(collision.isObjectCollising(ObjectPool.player, ObjectPool.key))
+        {
+            //remove the key
+            getObjectManager()->removeObject(ObjectPool.key);
+
+            //update boolean
+            mPlayerHasKey = true;
+        }
+
+        //Open the door
+        if(collision.isObjectCollising(ObjectPool.player, ObjectPool.door))
+        {
+            if(mPlayerHasKey)
+            {
+                auto doorObject = collision.getObject(ObjectPool.door);
+                doorObject->setSensor(true);
+            }
+        }
+
+        //Grab the treasure
+        if(collision.isObjectCollising(ObjectPool.player, ObjectPool.treasure))
+        {
+            //remove the treasure
+            getObjectManager()->removeObject(ObjectPool.treasure);
+
+            //update boolean
+            mPlayerHasTreasure = true;
+
+            //let's add a log
+            log("game completed ! congratulation !!!");
+        }
+    }
+
 
 }

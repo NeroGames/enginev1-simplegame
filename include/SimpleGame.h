@@ -21,10 +21,13 @@ namespace ng
 			void                checkSceneObject();
 			sf::Vector2f		getSceneResolution();
             void                handleKeyboardInput(const sf::Keyboard::Key& key, const bool& isPressed);
+            void                handleCollisionContactBegin(nero::Collision collision);
 
 
 	    private:
-        	Player		mPlayer;
+        	Player		        mPlayer;
+        	bool                mPlayerHasKey;
+        	bool                mPlayerHasTreasure;
 	};
 }
 

@@ -10,8 +10,8 @@ namespace ng
 {
 	Player::Player(): PhysicActionObject()
 	{
-	    registerAction<nero::MoveAction>(PlayerActionPool.move_left, nero::getMoveLeftAction(100.f));
-	    registerAction<nero::MoveAction>(PlayerActionPool.move_right, nero::getMoveRightAction(100.f));
+	    registerAction<nero::MoveAction>(PlayerActionPool.move_left, nero::getMoveLeftAction(150.f));
+	    registerAction<nero::MoveAction>(PlayerActionPool.move_right, nero::getMoveRightAction(150.f));
 	    registerAction<nero::MoveAction>(PlayerActionPool.move_none, nero::getMoveNoneXAction());
         registerAction<nero::JumpAction>(PlayerActionPool.jump, nero::getJumpAction(1000.f));
 	}

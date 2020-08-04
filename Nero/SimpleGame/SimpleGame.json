@@ -104,11 +104,11 @@
          "default_rotation": 0.0,
          "default_zoom": 0.0,
          "position": {
-            "x": 400.0,
-            "y": 303.0
+            "x": 474.083526611328,
+            "y": 375.443176269531
          },
          "rotation": 0.0,
-         "zoom": -45.0
+         "zoom": -50.0
       },
       "canvas_color": {
          "a": 255,
